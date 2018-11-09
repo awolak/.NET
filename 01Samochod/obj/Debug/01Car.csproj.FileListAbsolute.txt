@@ -1,0 +1,7 @@
+\\NAS1\home\awolak\Documents\CS_OOP\02Konstruktory\01Czolg\obj\Debug\01Car.csprojAssemblyReference.cache
+\\NAS1\home\awolak\Documents\CS_OOP\02Konstruktory\01Czolg\obj\Debug\01Car.csproj.CoreCompileInputs.cache
+\\NAS1\home\awolak\Documents\CS_OOP\02Konstruktory\01Czolg\bin\Debug\01Czolg.exe.config
+\\NAS1\home\awolak\Documents\CS_OOP\02Konstruktory\01Czolg\bin\Debug\01Czolg.exe
+\\NAS1\home\awolak\Documents\CS_OOP\02Konstruktory\01Czolg\bin\Debug\01Czolg.pdb
+\\NAS1\home\awolak\Documents\CS_OOP\02Konstruktory\01Czolg\obj\Debug\01Czolg.exe
+\\NAS1\home\awolak\Documents\CS_OOP\02Konstruktory\01Czolg\obj\Debug\01Czolg.pdb
